@@ -1,5 +1,5 @@
 <h1>🌟 Highlights of My Learning Journey</h1>
-<h2>✅ Completed:</h1>h2>
+<h2>✅ Completed:</h1>
  Day 1: Band Name Generator
  Day 2: Tip Calculator
  Day 3: Treasure Island Game
@@ -23,7 +23,8 @@ Version Control: Git and GitHub
 <h2>📢 Acknowledgments</h2>
 Special thanks to Dr. Angela Yu for creating such an amazing course!
 
-Check out the course here.
+Check out the course here(https://www.udemy.com/course/100-days-of-code/) 
+
 
 🌐 Connect with Me
 GitHub: YourUsername
