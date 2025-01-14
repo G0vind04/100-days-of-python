@@ -23,10 +23,9 @@ Version Control: Git and GitHub
 <h2>📢 Acknowledgments</h2>
 Special thanks to Dr. Angela Yu for creating such an amazing course!
 
-Check out the course here(https://www.udemy.com/course/100-days-of-code/) 
+Check out the course [here](https://www.udemy.com/course/100-days-of-code/) 
 
 
 🌐 Connect with Me
-GitHub: YourUsername
-LinkedIn: YourProfile
-Twitter: @YourHandle
+LinkedIn: [Govind Mohan](https://www.linkedin.com/in/govind-mohan-84a2961a6/)
+e-Mail : govindmohan2004@gmai.com
