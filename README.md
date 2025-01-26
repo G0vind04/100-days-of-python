@@ -6,8 +6,8 @@
  Day 4: Rock-Paper-Scissors Game<br>  
  Day 5: Password Generator <br> 
  Day 6: Escaping the Maze with Reeborg<br>  
-<h2>🚀 Upcoming Projects:</h2>
  Day 7: Hangman Game <br> 
+<h2>🚀 Upcoming Projects:</h2>
  Day 8: Caesar Cipher  <br>
  Day 9: Secret Auction Program<br>  
  Day 10: Calculator  <br>
