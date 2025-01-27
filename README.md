@@ -8,7 +8,7 @@
  Day 6: Escaping the Maze with Reeborg<br>  
  Day 7: Hangman Game <br> 
 <h2>🚀 Upcoming Projects:</h2>
- Day 8: Caesar Cipher  <br>
+ Day 8: Caesar Cipher and love calculator  <br>
  Day 9: Secret Auction Program<br>  
  Day 10: Calculator  <br>
 <h2>🎯 Goals and Motivation</h2>
