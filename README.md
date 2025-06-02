@@ -7,10 +7,20 @@
  Day 5: Password Generator <br> 
  Day 6: Escaping the Maze with Reeborg<br>  
  Day 7: Hangman Game <br> 
-<h2>🚀 Upcoming Projects:</h2>
  Day 8: Caesar Cipher and love calculator  <br>
  Day 9: Secret Auction Program<br>  
  Day 10: Calculator  <br>
+<h2>🚀 Upcoming Projects:</h2>
+ Day 11: Blackjack Game 
+ Day 12: Number Guessing Game 
+ Day 13: Debugging Practice 
+ Day 14: Higher or Lower Game 
+ Day 15: Coffee Machine Simulation 
+ Day 16: OOP: Coffee Machine with Classes 
+ Day 17: Quiz Game with OOP 
+ Day 18: Turtle Graphics: Drawing Shapes 
+ Day 19: Turtle Race Game 
+ Day 20: Build the Snake Game 
 <h2>🎯 Goals and Motivation</h2>
 Master Python by building projects daily.<br>  
 Learn best practices in programming and software development.<br>  
